@@ -5,6 +5,7 @@
 ### **Full-Stack Engineer & AI Systems Architect**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0052CC?style=for-the-badge&logo=vercel&logoColor=white)](https://michaelbriones-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Briones-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-b-4568a2184/)
 [![Upwork](https://img.shields.io/badge/Upwork-Verified_Specialist-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0132fd165333fbdaa4?viewMode=1)
 [![Available for Hire](https://img.shields.io/badge/Status-Available_for_Projects-2ea44f?style=for-the-badge)](mailto:mchlbrns07@gmail.com)
 [![Email](https://img.shields.io/badge/Email-mchlbrns07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchlbrns07@gmail.com)
@@ -114,6 +115,7 @@ I partner with founders, business owners, and tech leaders to take systems from 
 <div align="center">
 
 [![Reach Out via Email](https://img.shields.io/badge/Start_a_Project-Email_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchlbrns07@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-b-4568a2184/)
 [![Upwork Profile](https://img.shields.io/badge/Hire_on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0132fd165333fbdaa4?viewMode=1)
 [![View Full Portfolio](https://img.shields.io/badge/Portfolio-michaelbriones--dev-0052CC?style=for-the-badge&logo=vercel&logoColor=white)](https://michaelbriones-dev.vercel.app/)
 [![Check CV / Resume](https://img.shields.io/badge/CV%20%2F%20Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/mchlbrns/michael-b-resume)
